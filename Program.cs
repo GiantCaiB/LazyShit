@@ -19,10 +19,10 @@ namespace LazyAss
         {
             IntPtr handle = Process.GetCurrentProcess().MainWindowHandle;
             ShowWindow(handle, 6);
-            Console.ReadLine();
             while (true)
             {
                 var delayTask = Task.Delay(60000);
+                Console.WriteLine(DateTime.Now);
                 MakeMove();
                 await delayTask;
             }

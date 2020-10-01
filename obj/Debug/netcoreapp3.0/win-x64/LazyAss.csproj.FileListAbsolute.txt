@@ -231,3 +231,4 @@ C:\repos\Danny\LazyAss\LazyAss\obj\Debug\netcoreapp3.0\win-x64\LazyAss.csproj.Co
 C:\repos\Danny\LazyAss\LazyAss\obj\Debug\netcoreapp3.0\win-x64\LazyAss.dll
 C:\repos\Danny\LazyAss\LazyAss\obj\Debug\netcoreapp3.0\win-x64\LazyAss.pdb
 C:\repos\Danny\LazyAss\LazyAss\obj\Debug\netcoreapp3.0\win-x64\LazyAss.genruntimeconfig.cache
+C:\repos\Danny\LazyAss\LazyAss\obj\Debug\netcoreapp3.0\win-x64\LazyAss.csprojAssemblyReference.cache
