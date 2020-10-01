@@ -1,0 +1,2 @@
+C:\repos\Danny\LazyAss\LazyAss\bin\Release\netcoreapp3.0\win-x64\publish\LazyAss.pdb
+C:\repos\Danny\LazyAss\LazyAss\bin\Release\netcoreapp3.0\win-x64\publish\LazyAss.exe

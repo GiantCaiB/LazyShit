@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "nfoFu7s39o9q5wMHAaINBleMjQEQnUSLUx6L3KNz6JrdI5viyCCToftXOIYwincGJu0NfTYo2hXm6Vjw+3cw0g==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\Danny\\LazyAss\\LazyAss\\LazyAss.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.0.3\\microsoft.netcore.app.runtime.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.0.3\\microsoft.aspnetcore.app.runtime.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
