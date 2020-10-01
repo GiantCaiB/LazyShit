@@ -12,9 +12,9 @@ namespace LazyAss
         [return: MarshalAs(UnmanagedType.Bool)]
         private static extern bool ShowWindow([In] IntPtr hWnd, [In] int nCmdShow);
         [DllImport("user32.dll")]
-        static extern bool SetCursorPos(int X, int Y);
+        private static extern bool SetCursorPos(int X, int Y);
         [DllImport("user32.dll")]
-        public static extern bool GetCursorPos(out Point lpPoint);
+        private static extern bool GetCursorPos(out Point lpPoint);
         static async Task Main(string[] args)
         {
             IntPtr handle = Process.GetCurrentProcess().MainWindowHandle;
@@ -28,7 +28,7 @@ namespace LazyAss
             }
         }
 
-        static void MakeMove()
+        private static void MakeMove()
         {
             Random random = new Random();
             int randomNumber = random.Next(-10, 10);
