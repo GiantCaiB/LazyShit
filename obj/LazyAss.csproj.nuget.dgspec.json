@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\Danny\\LazyAss\\LazyAss\\LazyAss.csproj": {}
+    "C:\\Repositories\\giantcaib\\LazyShit\\LazyAss.csproj": {}
   },
   "projects": {
-    "C:\\repos\\Danny\\LazyAss\\LazyAss\\LazyAss.csproj": {
+    "C:\\Repositories\\giantcaib\\LazyShit\\LazyAss.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\Danny\\LazyAss\\LazyAss\\LazyAss.csproj",
+        "projectUniqueName": "C:\\Repositories\\giantcaib\\LazyShit\\LazyAss.csproj",
         "projectName": "LazyAss",
-        "projectPath": "C:\\repos\\Danny\\LazyAss\\LazyAss\\LazyAss.csproj",
-        "packagesPath": "C:\\Users\\danny.yu\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\Danny\\LazyAss\\LazyAss\\obj\\",
+        "projectPath": "C:\\Repositories\\giantcaib\\LazyShit\\LazyAss.csproj",
+        "packagesPath": "C:\\Users\\dannyyu\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositories\\giantcaib\\LazyShit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\danny.yu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\dannyyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -28,10 +27,11 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://globird.pkgs.visualstudio.com/_packaging/GloUtilities/nuget/v3/index.json": {}
+          "https://nuget.mecca.com.au/nuget": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -43,6 +43,13 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "dependencies": {
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.3.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -88,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.4.20258.7\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

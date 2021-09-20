@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LazyAss", "LazyAss.csproj", "{BB4FAC55-238B-4E85-9D3D-DEE0E77F62D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4FAC55-238B-4E85-9D3D-DEE0E77F62D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4FAC55-238B-4E85-9D3D-DEE0E77F62D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4FAC55-238B-4E85-9D3D-DEE0E77F62D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4FAC55-238B-4E85-9D3D-DEE0E77F62D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3803B30-43E0-4B86-8291-BB3809A3CBA0}
+	EndGlobalSection
+EndGlobal

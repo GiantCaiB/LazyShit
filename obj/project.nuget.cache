@@ -1,16 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "nfoFu7s39o9q5wMHAaINBleMjQEQnUSLUx6L3KNz6JrdI5viyCCToftXOIYwincGJu0NfTYo2hXm6Vjw+3cw0g==",
+  "dgSpecHash": "mk7uzQUn1LNf0XiLcBjz7dAf5RdViIORdHtxPXaqi4T1BsSEKReDiQpQxHX4B9WFqKNXNQWjeOxmhHgpsyxw8Q==",
   "success": true,
-  "projectFilePath": "C:\\repos\\Danny\\LazyAss\\LazyAss\\LazyAss.csproj",
+  "projectFilePath": "C:\\Repositories\\giantcaib\\LazyShit\\LazyAss.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.0.3\\microsoft.netcore.app.runtime.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.0.3\\microsoft.aspnetcore.app.runtime.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\danny.yu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+    "C:\\Users\\dannyyu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\quartz\\3.3.3\\quartz.3.3.3.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.0.3\\microsoft.netcore.app.runtime.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.0.3\\microsoft.aspnetcore.app.runtime.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\dannyyu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }

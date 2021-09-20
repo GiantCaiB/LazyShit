@@ -1,5 +1,8 @@
 {
   "runtimeOptions": {
-    "tfm": "netcoreapp3.0"
+    "tfm": "netcoreapp3.0",
+    "configProperties": {
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false
+    }
   }
 }
