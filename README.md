@@ -14,4 +14,5 @@
 
       
 我是编程小白该如何使用：  
-下载代码zip, 解压Yuni.zip， 进入publish文件夹直接打开LazyAss.exe 运行。
+下载代码zip, 解压Yuni.zip， 进入publish文件夹直接打开LazyAss.exe 运行。  
+只有周一到周五从9点到17点是工作的哦, 如果想调时间需要自己改下program里的cron expression然后重新build。
