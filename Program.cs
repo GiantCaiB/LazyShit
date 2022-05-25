@@ -14,7 +14,7 @@ namespace LazyAss
         [return: MarshalAs(UnmanagedType.Bool)]
         private static extern bool ShowWindow([In] IntPtr hWnd, [In] int nCmdShow);
         [DllImport("user32.dll")]
-        private static extern bool SetCursorPos(int X, int Y);
+        private static extern bool SetCursorPos(int x, int y);
         [DllImport("user32.dll")]
         private static extern bool GetCursorPos(out Point lpPoint);
         [DllImport("user32.dll", CharSet = CharSet.Auto, CallingConvention = CallingConvention.StdCall)]
