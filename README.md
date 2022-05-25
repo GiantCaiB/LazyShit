@@ -14,4 +14,4 @@
 
       
 我是编程小白该如何使用：  
-下载代码zip, 解压， 前往LazyShit/bin/Release/netcoreapp3.0/win-x64/ 直接打开LazyAss.exe 运行。
+下载代码zip, 解压Yuni.zip， 进入publish文件夹直接打开LazyAss.exe 运行。
