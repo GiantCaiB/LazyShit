@@ -686,19 +686,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dannyyu\\.nuget\\packages\\": {}
+    "C:\\Users\\giant\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositories\\giantcaib\\LazyShit\\LazyAss.csproj",
+      "projectUniqueName": "D:\\Repositories\\LazyShit\\LazyAss.csproj",
       "projectName": "LazyAss",
-      "projectPath": "C:\\Repositories\\giantcaib\\LazyShit\\LazyAss.csproj",
-      "packagesPath": "C:\\Users\\dannyyu\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositories\\giantcaib\\LazyShit\\obj\\",
+      "projectPath": "D:\\Repositories\\LazyShit\\LazyAss.csproj",
+      "packagesPath": "C:\\Users\\giant\\.nuget\\packages\\",
+      "outputPath": "D:\\Repositories\\LazyShit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dannyyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\giant\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -706,9 +706,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.mecca.com.au/nuget": {},
-        "https://pkgs.dev.azure.com/meccabrands/_packaging/mecca-nuget%40Local/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
@@ -776,7 +774,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
